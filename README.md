@@ -5,8 +5,7 @@
 
 1. Install ```mysql-client```. 
 2. ```mysql --host=[INSTANCE_IP] --user=root --password```
-3. Enter the password.
-4.You should now see the mysql prompt.
+3. Enter the password,You should now see the mysql prompt.
 
 ## Connecting to the DB Using MySQLWorkbench
 
