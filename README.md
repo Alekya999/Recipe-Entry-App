@@ -1,5 +1,4 @@
-##Recipe-Entry-App
-
+## Recipe-Entry-App
 
 
 ## Connecting to the DB
